@@ -7,105 +7,173 @@
 # Email: ndevslk@gmail.com
 # Message: Please do not extract stream links from this playlist.
 
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/sky9-150x150.webp",Sky Sport 9 NZ - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=596
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=596|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/sky8-150x150.webp",Sky Sport 8 NZ - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=595
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=595|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/skybund-150x150.webp",Sky Sport Bundesliga 1 - DE
-https://mhdtv.co.in/daddy/stream.m3u8?id=558
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=558|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/sky1-150x150.webp",Sky Sport 1 NZ - US
-https://mhdtv.co.in/daddy/stream.m3u8?id=588
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=588|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/sky2-150x150.webp",Sky Sport 2 NZ - US
-https://mhdtv.co.in/daddy/stream.m3u8?id=589
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=589|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/sky3-150x150.webp",Sky Sport 3 NZ - US
-https://mhdtv.co.in/daddy/stream.m3u8?id=590
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=590|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/sky4-150x150.webp",Sky Sport 4 NZ - US
-https://mhdtv.co.in/daddy/stream.m3u8?id=591
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=591|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/sky5-150x150.webp",Sky Sport 5 NZ - US
-https://mhdtv.co.in/daddy/stream.m3u8?id=592
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=592|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/sky6-150x150.webp",Sky Sport 6 NZ - US
-https://mhdtv.co.in/daddy/stream.m3u8?id=593
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=593|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/08/sky7-150x150.webp",Sky Sport 7 NZ - US
-https://mhdtv.co.in/daddy/stream.m3u8?id=594
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=594|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKY251-150x150.webp",Sky Sport 257 - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=877
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=877|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKY251-150x150.webp",Sky Sport 256 - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=876
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=876|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKY251-150x150.webp",Sky Sport 255 - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=875
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=875|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKY251-150x150.webp",Sky Sport 254 - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=874
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=874|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKY251-150x150.webp",Sky Sport 252 - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=872
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=872|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/04/SKYSPORTF1IT-150x150.webp",Sky Sport F1 - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=577
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=577|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKY251-150x150.webp",Sky Sport 253 - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=873
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=873|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/02/skytennistv-150x150.webp",Sky Sports Tennis - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=46
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=46|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/02/SKYRACINGTV-150x150.webp",Sky Sports Racing - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=554
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=554|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKY251-150x150.webp",Sky Sport 251 - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=871
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=871|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKY24-150x150.webp",Sky Sport 24 - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=869
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=869|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKYCALCIO-150x150.webp",Sky Sport Calcio - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=870
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=870|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKYGPHD-150x150.webp",Sky Sport MotoGP - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=575
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=575|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2024/01/SKYNEWS-150x150.webp",Sky Sports News - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=366
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=366|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/12/uno-150x150.webp",Sky Sport UNO - IT
-https://mhdtv.co.in/daddy/stream.m3u8?id=461
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=461|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/10/skyaction-150x150.webp",Sky Sports Action - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=37
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=37|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/10/skyarena-150x150.webp",Sky Sports Arena - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=36
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=36|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/09/skygolf-150x150.webp",Sky Sports Golf - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=70
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=70|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/09/skymix-150x150.webp",Sky Sports Mix - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=449
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=449|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/09/skyevent-150x150.webp",Sky Sports Main Event - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=38
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=38|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/09/skyfootball-150x150.webp",Sky Sports Football - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=35
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=35|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/skycric-150x150.png",Sky Sports Cricket - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=65
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=65|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/skyf1-150x150.png",Sky Sports F1 UK - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=60
-#EXTVLCOPT:http-referrer=mhdtv.co.in
+https://mhdtv.co.in/daddy/stream.php?id=60|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
+#EXTHTTP:{"accept":"*/*","accept-language":"en-US,en;q=0.9","authority":"mhdtv.co.in","sec-ch-ua":"Not-A.Brand;v=99, Chromium;v=124","sec-ch-ua-mobile":"?1","sec-ch-ua-platform":"Android","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-origin"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://mhdtv.co.in/daddy/?play=
 #EXTINF:-1 tvg-logo="https://nowmesports.com/wp-content/uploads/2023/04/skyspp-150x150.png",Sky Sports Premier League - UK
-https://mhdtv.co.in/daddy/stream.m3u8?id=130
+https://mhdtv.co.in/daddy/stream.php?id=130|accept="*/*"&accept-language="en-US,en;q=0.9"&authority="mhdtv.co.in"&sec-ch-ua="Not-A.Brand;v=99, Chromium;v=124"&sec-ch-ua-mobile="?1"&sec-ch-ua-platform="Android"&sec-fetch-dest="empty"&sec-fetch-mode="cors"&sec-fetch-site="same-origin"
