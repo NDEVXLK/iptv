@@ -35,21 +35,7 @@ adblocked();}})
 <div id='player'></div>
 <script>
 const decode=str=>atob(str.split('').reverse().join(''));
-if(window.location.host!=='ndevslk.github.io'){}
-const params=new URLSearchParams(window.location.search);
-const url=decode(params.get('url'));
-const kid=decode(params.get('kid'));
-const key=decode(params.get('key'));
-jwplayer('player').setup({
-key:'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo',
-file:url,
-width:'100%',
-height:'100%',
-autostart:true,
-drm:{
-clearkey:{
-keyId:kid,
-key:key}}})
+eval(decode('kSf91XeltmO5V2aKwCZptmOklUeltmC7pTeltmchVGbjpwe60mckpALlVnc0pDdyFGdz9Gd1FmCscSJwATMnoDdodWalhmCscSJwATMnoDa0RWa3pALsJXd6UGbpZmCscybqRmY3I3RHhEMJNEOIl1Yv8UTndVQ50GUygGdrQzKi5UU3EzS0lzKs1Uc0AVdTh1J6kXZrpweoAXd0V2cukyJyVWehxGcngicllXYsB3dqpwOpkyJ5V2angCdldmLz1WYyFGcoUGZvNWZk1TeltGI0NnbvNmC7kSKnQWardCK0V2ZuMXbhJXYwhSZk92YlRWPkl2agQ3cu92YKsTKpcCbyV3JoQXZn5yctFmchBHKlR2bjVGZ9wmc1BCdz52bjpwOpg2YyFWZz5ibvlGdhN2bs5ydvRmbpdHKz1WYyFGUoNmchV2UMJVVgcXZu1zctFmchBHI0NnbvNmC9tXKn8WauIWdoRXan5yasNndlRmbn0TPhQ3cvhmLu9Wa0F2YvxmL39GZul2doYWa'));
 </script>
 </body>
 </html>
