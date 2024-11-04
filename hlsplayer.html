@@ -34,8 +34,9 @@ adblocked();}})
 <body>
 <div id='player'></div>
 <script>
+const decode=str=>atob(str.split('').reverse().join(''));
 const params=new URLSearchParams(window.location.search);
-const url=atob(params.get('url'));
+const url=decode(params.get('url'));
 jwplayer('player').setup({
 key:'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo',
 file:url,
