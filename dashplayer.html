@@ -34,6 +34,7 @@ adblocked();}})
 <body>
 <div id='player'></div>
 <script>
+const decode=str=>atob(str.split('').reverse().join(''));
 const params=new URLSearchParams(window.location.search);
 const url=atob(params.get('url'));
 const kid=atob(params.get('kid'));
