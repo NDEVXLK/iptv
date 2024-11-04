@@ -35,6 +35,7 @@ adblocked();}})
 <div id='player'></div>
 <script>
 const decode=str=>atob(str.split('').reverse().join(''));
+if(window.location.host!=='ndevslk.github.io'){}
 const params=new URLSearchParams(window.location.search);
 const url=decode(params.get('url'));
 jwplayer('player').setup({
