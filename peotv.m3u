@@ -169,5 +169,7 @@ http://203.115.18.132/bpk-tv/209/output/index.m3u8
 http://203.115.18.132/bpk-tv/210/output/index.m3u8
 #EXTINF:-1 group-title="Local Variety",Event TV Xtra
 http://203.115.18.132/bpk-tv/220/output/index.m3u8
+#EXTINF:-1 group-title="Local Variety",Star Sports 2
+http://203.115.18.132/bpk-tv/226/output/index.m3u8
 #EXTINF:-1 group-title="Local Variety",SLTMobitel Group Watch
 http://203.115.18.132/bpk-tv/250/output/index.m3u8
