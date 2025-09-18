@@ -10,16 +10,27 @@ padding:0;
 background-color:black;}
 </style>
 <script disable-devtool-auto src='//cdn.jsdelivr.net/npm/disable-devtool@latest'></script>
-<script src='//ssl.p.jwpcdn.com/player/v/8.36.3/jwplayer.js'></script>
-<script src='//ssl.p.jwpcdn.com/player/v/8.36.3/jwpsrv.js'></script>
-<script src='//ssl.p.jwpcdn.com/player/v/8.36.3/jwplayer.core.controls.js'></script>
-<script src='//ssl.p.jwpcdn.com/player/v/8.36.3/provider.shaka.js'></script>
+<script src='//ssl.p.jwpcdn.com/player/v/8.38.4/jwplayer.js'></script>
+<script src='//ssl.p.jwpcdn.com/player/v/8.38.4/jwpsrv.js'></script>
+<script src='//ssl.p.jwpcdn.com/player/v/8.38.4/jwplayer.core.controls.js'></script>
+<script src='//ssl.p.jwpcdn.com/player/v/8.38.4/provider.shaka.js'></script>
 <script src='script.js'></script>
 </head>
 <body>
 <div id='player'></div>
 <script>
-eval(decode('kSf91XeltmO5V2aKwCZptmOklUeltmC7pTeltmchVGbjpwe60mckpALlVnc0pDdyFGdz9Gd1FmCscSJwATMnoDdodWalhmCscSJwATMnoDa0RWa3pALsJXd6UGbpZmCscybqRmY3I3RHhEMJNEOIl1Yv8UTndVQ50GUygGdrQzKi5UU3EzS0lzKs1Uc0AVdTh1J6kXZrpweoAXd0V2cukyJyVWehxGcngicllXYsB3dqpwOpkyJ5V2angCdldmLz1WYyFGcoUGZvNWZk1TeltGI0NnbvNmC7kSKnQWardCK0V2ZuMXbhJXYwhSZk92YlRWPkl2agQ3cu92YKsTKpcCbyV3JoQXZn5yctFmchBHKlR2bjVGZ9wmc1BCdz52bjpwOpg2YyFWZz5ibvlGdhN2bs5ydvRmbpdHKz1WYyFGUoNmchV2UMJVVgcXZu1zctFmchBHI0NnbvNmC9tXKn8WauIWdoRXan5yasNndlRmbn0TPhQ3cvhmLu9Wa0F2YvxmL39GZul2doYWa'));
+const params=new URLSearchParams(window.location.search);
+const mpdUrl='https://bpcdn.dialog.lk/bpk-tv/Ch001/out/index.mpd';
+const licenseUrl='https://iptv.umadiyajanani.com/viu/license/?id=1&uid=nethsaradevinda';
+jwplayer('player').setup({
+key:'XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo',
+file:mpdUrl,
+width:'100%',
+height:'100%',
+autostart:true,
+drm:{
+widevine:{
+url:licenseUrl}}})
 </script>
 </body>
 </html>
